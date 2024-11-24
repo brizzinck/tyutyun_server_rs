@@ -1,1 +1,1 @@
-# tyutyun_server_rs
+https://tyutyunshop.yacode.dev
